@@ -1,20 +1,56 @@
 ````markdown
-# Hi 👋, I'm Fenil Patel
+<div align="center">
 
-<h3 align="center">🚀 Full Stack Web Developer | React.js • Django • Python • REST API</h3>
+# Hi 👋, I'm **Fenil Patel**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+### 🚀 Full Stack Web Developer | React.js • Django • Python • REST APIs
 
-I'm a passionate **Full Stack Web Developer** from India who enjoys building modern, scalable, and user-friendly web applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=React.js+Developer;Django+Backend+Developer;Python+Programmer;REST+API+Developer;Always+Learning+New+Technologies" />
 
-I specialize in creating responsive frontend applications with **React.js** and powerful backend APIs using **Django** and **Django REST Framework**.
+<img src="https://komarev.com/ghpvc/?username=fenil313&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-- 🔭 Currently working on **React + Django Full Stack Applications**
-- 🌱 Learning **Next.js, Docker, Kubernetes, AWS & CI/CD**
-- 👨‍💻 All of my projects are available at **https://github.com/fenil313**
-- 💬 Ask me about **React, Django, Python, REST APIs, PostgreSQL**
-- 📫 Reach me at **fenilpatel0301@gmail.com**
-- ⚡ Fun Fact: *I love transforming ideas into real-world web applications.*
+</div>
+
+---
+
+## 💫 About Me
+
+```python
+class FenilPatel:
+
+    name = "Fenil Patel"
+
+    role = "Full Stack Web Developer"
+
+    frontend = [
+        "React",
+        "JavaScript",
+        "Tailwind CSS",
+        "Bootstrap"
+    ]
+
+    backend = [
+        "Python",
+        "Django",
+        "Django REST Framework"
+    ]
+
+    database = [
+        
+        "MySQL",
+        "SQLite"
+    ]
+
+
+
+    fun_fact = "Code • Build • Learn • Repeat 🚀"
+```
+
+- 🔭 Working on **React + Django Full Stack Projects**
+- 🌱 Currently learning **Cloud, DevOps & Scalable Applications**
+- 💬 Ask me about **React, Django, Python, REST APIs**
+- 📫 **fenilpatel0301@gmail.com**
+- 👨‍💻 Portfolio Coming Soon...
 
 ---
 
@@ -23,11 +59,11 @@ I specialize in creating responsive frontend applications with **React.js** and 
 <p align="left">
 
 <a href="https://github.com/fenil313">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:fenilpatel0301@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -36,142 +72,131 @@ I specialize in creating responsive frontend applications with **React.js** and 
 
 # 💻 Tech Stack
 
-### 🚀 Frontend
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,python,django,nodejs,postgres,mysql,sqlite,tailwind,bootstrap,docker,git,github,vscode,postman,linux&perline=9"/>
 
----
-
-### ⚙ Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
----
-
-### 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
----
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🛒 React + Django E-Commerce
+> Replace the repository names below with your actual repository names.
 
-Modern e-commerce application built using React and Django REST Framework.
+<table>
 
-**Features**
+<tr>
 
-- JWT Authentication
-- Shopping Cart
-- Product Search
-- Admin Dashboard
-- REST API
-- Responsive UI
+<td width="50%">
 
----
+### 🌐 React Project
 
-### 📚 Student Management System
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fenil313&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true)](https://github.com/fenil313)
 
-A full-stack management application built with Django.
+</td>
 
-**Features**
+<td width="50%">
 
-- CRUD Operations
-- Authentication
-- Dashboard
-- Search & Filter
+### ⚙ Django REST API
 
----
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fenil313&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true)](https://github.com/fenil313)
 
-### 📝 Blog CMS
+</td>
 
-Content management system with Django & React.
+</tr>
 
-**Features**
+<tr>
 
-- Rich Text Editor
-- Categories
-- Authentication
-- Comments
+<td width="50%">
 
----
+### 🛒 Full Stack Project
 
-### 🤖 AI Chat Application
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fenil313&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true)](https://github.com/fenil313)
 
-React + Django application integrating AI APIs.
+</td>
 
-**Features**
+<td width="50%">
 
-- Secure Login
-- Chat History
-- Markdown Support
-- REST API
+### 🤖 Python Project
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fenil313&repo=REPOSITORY_NAME&theme=tokyonight&hide_border=true)](https://github.com/fenil313)
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=fenil313&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fenil313&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fenil313&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fenil313&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil313&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# 📈 Contribution Graph
-
-[![Fenil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fenil313&theme=tokyo-night)](https://github.com/fenil313)
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
-![](https://github-profile-trophy.vercel.app/?username=fenil313&theme=tokyonight&no-frame=true&row=1&column=7)
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=fenil313&theme=tokyonight&hide_border=true"/>
 
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions with **Platane/snk** to generate the snake animation.
-
-```text
-github.com/fenil313/fenil313/blob/output/github-contribution-grid-snake.svg
-```
+</p>
 
 ---
 
-# 📂 Repository Highlights
+# 📈 GitHub Activity Graph
 
-```
-📦 fenil313
-┣ 📂 React Projects
-┣ 📂 Django Projects
-┣ 📂 Python Projects
-┣ 📂 REST API Projects
-┣ 📂 Portfolio Website
-┗ 📂 Full Stack Applications
-```
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fenil313&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fenil313&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fenil313&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fenil313&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fenil313&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,bash,npm&perline=8"/>
+
+</p>
 
 ---
 
@@ -180,32 +205,45 @@ github.com/fenil313/fenil313/blob/output/github-contribution-grid-snake.svg
 - ⚛ React 19
 - ▲ Next.js
 - 🐍 Django REST Framework
-- 🐳 Docker
 - ☁ AWS
+- 🐳 Docker
+- ☸ Kubernetes
 - 🔄 CI/CD
 - ⚡ Redis
-- 📦 Celery
-- ☸ Kubernetes
+- 📨 Celery
 
 ---
 
-# 📈 Profile Views
+# 🎯 2026 Goals
 
-![](https://komarev.com/ghpvc/?username=fenil313&style=for-the-badge&color=blue)
+- 🚀 Build production-ready Full Stack applications
+- ☁ Deploy projects on AWS
+- 📦 Master Docker & Kubernetes
+- 🤝 Contribute to Open Source
+- ⭐ Reach 500+ GitHub Contributions
+- 💼 Become an Expert Full Stack Engineer
 
 ---
 
-# 💡 Quote
+# 🐍 Contribution Snake
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+```md
+Enable the "Platane/snk" GitHub Action and use:
+
+https://raw.githubusercontent.com/fenil313/fenil313/output/github-contribution-grid-snake-dark.svg
+```
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<div align="center">
 
-<p align="center">
-If you like my work, don't forget to ⭐ my repositories.
-</p>
+## 💡 Quote
+
+> **"First, solve the problem. Then, write the code."**
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, don't forget to **Star ⭐ my repositories.**
+
+</div>
 ````
