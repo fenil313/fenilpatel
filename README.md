@@ -9,7 +9,7 @@ I'm a passionate Full Stack Web Developer who loves building scalable, responsiv
 - 🔭 Currently working on Full Stack React + Django Projects
 - 🌱 Learning Docker, Kubernetes, AWS & CI/CD
 - 💬 Ask me about React, Django, Python, REST APIs, PostgreSQL
-- 📫 Reach me: your.email@example.com
+- 📫 Reach me: fenilpatel0301@gmail.com
 - ⚡ Fun Fact: I enjoy turning ideas into real-world applications.
 
 ---
