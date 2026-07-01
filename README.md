@@ -1,61 +1,72 @@
-# Hi 👋, I'm fenil patel
+````markdown
+# Hi 👋, I'm Fenil Patel
 
-### 🚀 Full Stack Web Developer | React.js | Django | Python | REST API
+<h3 align="center">🚀 Full Stack Web Developer | React.js • Django • Python • REST API</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I'm a passionate Full Stack Web Developer who loves building scalable, responsive, and high-performance web applications using **React.js** on the frontend and **Django/Django REST Framework** on the backend.
+I'm a passionate **Full Stack Web Developer** from India who enjoys building modern, scalable, and user-friendly web applications.
 
-- 🔭 Currently working on Full Stack React + Django Projects
-- 🌱 Learning Docker, Kubernetes, AWS & CI/CD
-- 💬 Ask me about React, Django, Python, REST APIs, PostgreSQL
-- 📫 Reach me: fenilpatel0301@gmail.com
-- ⚡ Fun Fact: I enjoy turning ideas into real-world applications.
+I specialize in creating responsive frontend applications with **React.js** and powerful backend APIs using **Django** and **Django REST Framework**.
+
+- 🔭 Currently working on **React + Django Full Stack Applications**
+- 🌱 Learning **Next.js, Docker, Kubernetes, AWS & CI/CD**
+- 👨‍💻 All of my projects are available at **https://github.com/fenil313**
+- 💬 Ask me about **React, Django, Python, REST APIs, PostgreSQL**
+- 📫 Reach me at **fenilpatel0301@gmail.com**
+- ⚡ Fun Fact: *I love transforming ideas into real-world web applications.*
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<a href="https://github.com/fenil313">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:fenilpatel0301@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Frontend
+### 🚀 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-### Backend
+---
+
+### ⚙ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
-### Database
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+### 🗄 Database
 
-### Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+### 🛠 Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -67,162 +78,137 @@ I'm a passionate Full Stack Web Developer who loves building scalable, responsiv
 
 # 🚀 Featured Projects
 
-## 1. Full Stack E-Commerce Website
+### 🛒 React + Django E-Commerce
 
-**Tech Stack**
+Modern e-commerce application built using React and Django REST Framework.
 
-- React.js
-- Django REST Framework
-- PostgreSQL
+**Features**
+
 - JWT Authentication
-- Stripe Payment
-
-### Features
-
-- User Authentication
-- Product Search
 - Shopping Cart
-- Payment Gateway
-- Order Management
+- Product Search
 - Admin Dashboard
-
-🔗 Repository:
-https://github.com/yourusername/react-django-ecommerce
-
----
-
-## 2. Task Management System
-
-**Stack**
-
-- React
-- Django
 - REST API
-- PostgreSQL
-
-### Features
-
-- JWT Login
-- Team Collaboration
-- Task Assignment
-- File Upload
-- Notifications
-
-🔗 Repository
-
-https://github.com/yourusername/task-manager
+- Responsive UI
 
 ---
 
-## 3. Blog CMS
+### 📚 Student Management System
 
-**Stack**
+A full-stack management application built with Django.
 
-- Django
-- React
-- CKEditor
-- REST API
+**Features**
 
-### Features
-
-- Admin Dashboard
-- Categories
-- Comments
-- Rich Text Editor
-
-🔗 Repository
-
-https://github.com/yourusername/blog-cms
-
----
-
-## 4. AI Chat Application
-
-Stack
-
-- React
-- Django
-- OpenAI API
-- WebSocket
-
-Features
-
-- AI Chat
+- CRUD Operations
 - Authentication
+- Dashboard
+- Search & Filter
+
+---
+
+### 📝 Blog CMS
+
+Content management system with Django & React.
+
+**Features**
+
+- Rich Text Editor
+- Categories
+- Authentication
+- Comments
+
+---
+
+### 🤖 AI Chat Application
+
+React + Django application integrating AI APIs.
+
+**Features**
+
+- Secure Login
 - Chat History
 - Markdown Support
-
-Repository
-
-https://github.com/yourusername/ai-chat-app
+- REST API
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=fenil313&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=fenil313&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fenil313&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fenil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fenil313&theme=tokyo-night)](https://github.com/fenil313)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=fenil313&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+> Enable GitHub Actions with **Platane/snk** to generate the snake animation.
 
----
-
-## 📂 Repository Structure
-
-```
-
-📦 Projects
-┣ 📂 React-Django-Ecommerce
-┣ 📂 Task-Management-System
-┣ 📂 Blog-CMS
-┣ 📂 AI-Chat-App
-┣ 📂 Portfolio
-┗ 📂 Django-REST-Boilerplate
-
+```text
+github.com/fenil313/fenil313/blob/output/github-contribution-grid-snake.svg
 ```
 
 ---
 
-## 📚 Currently Learning
+# 📂 Repository Highlights
 
-- Advanced React
-- Next.js
-- Django Channels
-- Docker
-- Kubernetes
-- AWS
-- CI/CD
-- Redis
-- Celery
-- Microservices
-
----
-
-## 💡 Quote
-
-> "Code. Learn. Build. Repeat."
+```
+📦 fenil313
+┣ 📂 React Projects
+┣ 📂 Django Projects
+┣ 📂 Python Projects
+┣ 📂 REST API Projects
+┣ 📂 Portfolio Website
+┗ 📂 Full Stack Applications
+```
 
 ---
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+# 📚 Currently Learning
 
-⭐ If you like my work, consider giving my repositories a star!
+- ⚛ React 19
+- ▲ Next.js
+- 🐍 Django REST Framework
+- 🐳 Docker
+- ☁ AWS
+- 🔄 CI/CD
+- ⚡ Redis
+- 📦 Celery
+- ☸ Kubernetes
+
+---
+
+# 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=fenil313&style=for-the-badge&color=blue)
+
+---
+
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories.
+</p>
+````
